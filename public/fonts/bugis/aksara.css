@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Noto Sans Buginese';
+    src: url('NotoSansBuginese.eot');
+    src: url('NotoSansBuginese.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansBuginese.woff') format('woff'),
+        url('NotoSansBuginese.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

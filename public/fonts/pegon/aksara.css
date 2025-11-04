@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'ScheherazadeNew';
+    src: url('ScheherazadeNew02.eot');
+    src: url('ScheherazadeNew02.eot?#iefix') format('embedded-opentype'),
+        url('ScheherazadeNew02.woff2') format('woff2'),
+        url('ScheherazadeNew02.woff') format('woff'),
+        url('ScheherazadeNew02.ttf') format('truetype'),
+        url('ScheherazadeNew02.svg#ScheherazadeNew') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

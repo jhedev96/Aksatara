@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Tantular Kawi';
+    src: url('TantularKawi-Regular.eot');
+    src: url('TantularKawi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TantularKawi-Regular.woff2') format('woff2'),
+        url('TantularKawi-Regular.woff') format('woff'),
+        url('TantularKawi-Regular.ttf') format('truetype'),
+        url('TantularKawi-Regular.svg#TantularKawi-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
