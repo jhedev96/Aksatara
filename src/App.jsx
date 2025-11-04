@@ -241,7 +241,7 @@ function App() {
                             </TabsContent>
                             <TabsContent value="info" className="mt-4 prose dark:prose-invert max-w-none">
                                 <blockquote className="bg-secondary-background p-4 rounded-md">
-                                    <p>Aksatara adalah versi aplikasi dari <Link to="https://github.com/jhedev96/AksaraNusantara.js" target="_blank">AksaraNusantara.js</Link> yang didasarkan pada proyek saya yang lain, <Link to="https://github.com/jhedev96/SundaneseScript.js" target="_blank">SundaneseScript.js</Link>, yang merupakan pustaka transliterator untuk aksara Sunda. Setelah meneliti aksara Nusantara lainnya, saya memutuskan untuk membuat transliterasi untuk aksara aksara nusantara lainnya seperti Sunda, Jawa, Bali, Batak, Rejang, Bugis dan lainnya.</p>
+                                    <p>Aksatara adalah versi aplikasi dari <Link to="https://github.com/jhedev96/AksaraNusantara.js" target="_blank">AksaraNusantara.js</Link> yang didasarkan pada proyek saya yang lain, <Link to="https://github.com/jhedev96/AksaraSunda.js" target="_blank">AksaraSunda.js</Link>, yang merupakan pustaka transliterator untuk aksara Sunda. Setelah meneliti aksara Nusantara lainnya, saya memutuskan untuk membuat transliterasi untuk aksara aksara nusantara lainnya seperti Sunda, Jawa, Bali, Batak, Rejang, Bugis dan lainnya.</p>
                                     <footer className="mt-3 text-sm text-gray-950/80 dark:text-white/80"><cite>Aksatara</cite> juga cepat. Hanya butuh sekitar 2 milidetik untuk mengubah kalimat sederhana.</footer>
                                 </blockquote>
                                 <div className="text-center mt-8 text-sm text-gray-500">
