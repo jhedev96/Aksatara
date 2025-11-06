@@ -14,23 +14,5 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, './src')
     }
-  },
-  server: {
-    proxy: {
-      '/receive': 'http://localhost:3000',
-      '/receive-bulk': 'http://localhost:3000',
-      '/downloads': 'http://localhost:3000',
-      '/api': 'http://localhost:3000',
-      // VRMA Converter Proxy
-      '/convert': 'http://localhost:3000',
-      '/debug': 'http://localhost:3000',
-      '/output': 'http://localhost:3000',
-      '/downloads/vrma': 'http://localhost:3000',
-      // VRM Metadata
-      '^/get-vrm-meta/.*': {
-        target: 'http://localhost:3000',
-        changeOrigin: true,
-      },
-    }
   }
 })
